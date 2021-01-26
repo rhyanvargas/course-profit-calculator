@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Course Profit Calculator
+
+This is a simple tool to figure out profit of your course on the fly!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
